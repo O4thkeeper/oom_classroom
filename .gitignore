@@ -1,0 +1,4 @@
+./.idea
+./cmake-build-debug
+# 项目排除路径
+/cmake-build-debug/
