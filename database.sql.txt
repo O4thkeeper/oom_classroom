@@ -1,0 +1,3 @@
+--class:id name teacher start_time end_time start_date end_date
+--user:id property name user_id password
+--class_user:id class_id user_id user_property

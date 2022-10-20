@@ -1,0 +1,3 @@
+linux:
+    mysql:/usr/include/mysql/
+    mysql++:/usr/local/include/mysql++

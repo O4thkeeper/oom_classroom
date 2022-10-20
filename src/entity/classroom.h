@@ -5,7 +5,7 @@
 #ifndef OOM_CLASSROOM_CLASSROOM_H
 #define OOM_CLASSROOM_CLASSROOM_H
 
-//todo classroom
+//not implement
 class Classroom {
 
 };
